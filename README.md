@@ -1,2 +1,2 @@
 # vite-react-app
- React app with Vite
+Изучение React: Vite, Components, useState  
